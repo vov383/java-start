@@ -22,9 +22,16 @@ public class Operator1 {
         // 나눗셈
         int div = a / b;
         System.out.println("a / b = " + div);
+        // int형 끼리 나누면 소수점 표시 안된다. 날아감
+        // 왜? 형변환 때문에
 
         // 나머지
         int mod = a % b;
         System.out.println("a % b = " + mod);
+        // 나머지 연산자는 실무와 알고리즘 모두에 종종 사용됨.
+
+//        int z = 10 / 0;
+        // 0으로 나누기는 허용x
+        // 예외 발생. 예외처리에서 따로 다룬다.
     }
 }

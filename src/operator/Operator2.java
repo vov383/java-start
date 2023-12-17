@@ -1,7 +1,7 @@
 package operator;
 
 public class Operator2 {
-
+    // 문자열 끼리 더해서 더 큰 문자열
     public static void main(String[] args) {
 
         //문자열과 문자열 더하기1
@@ -17,6 +17,8 @@ public class Operator2 {
         //문자열과 숫자 더하기1
         String result3 = "a + b = " + 10;
         System.out.println(result3);
+        // 자바가 숫자를 문자열로 변환시키고 더한다.
+        // String에 더하면 다 String으로 변환됨.
 
         //문자열과 숫자 더하기2
         int num = 20;
