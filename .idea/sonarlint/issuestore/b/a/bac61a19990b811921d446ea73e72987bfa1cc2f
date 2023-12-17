@@ -1,0 +1,27 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "d".(μ¦§Έ
+K
+java:S1854"5Remove this useless assignment to local variable "f".(Σί―¤
+K
+java:S1854"5Remove this useless assignment to local variable "l".(κη©Α
+J
+java:S1854"5Remove this useless assignment to local variable "i".(Τνά
+K
+java:S1854
+"5Remove this useless assignment to local variable "s".(ψ¨Θα
+K
+java:S1854	"5Remove this useless assignment to local variable "b".(„Ν½ό
+<
+java:S1481	"&Remove this unused "b" local variable.(„Ν½ό
+<
+java:S1481
+"&Remove this unused "s" local variable.(ψ¨Θα
+;
+java:S1481"&Remove this unused "i" local variable.(Τνά
+<
+java:S1481"&Remove this unused "l" local variable.(κη©Α
+<
+java:S1481"&Remove this unused "f" local variable.(Σί―¤
+<
+java:S1481"&Remove this unused "d" local variable.(μ¦§Έ
