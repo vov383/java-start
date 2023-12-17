@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="ad">
+    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="ㅁ">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bac61a19990b811921d446ea73e72987bfa1cc2f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bac61a19990b811921d446ea73e72987bfa1cc2f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/variable/Var8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
     </list>
@@ -112,7 +113,7 @@
       <workItem from="1701937592443" duration="610000" />
       <workItem from="1702288200814" duration="3610000" />
       <workItem from="1702731548565" duration="298000" />
-      <workItem from="1702779465035" duration="981000" />
+      <workItem from="1702779465035" duration="1508000" />
     </task>
     <task id="LOCAL-00001" summary="ad">
       <option name="closed" value="true" />
@@ -122,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702780259551</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ㅁ">
+      <option name="closed" value="true" />
+      <created>1702780459584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702780459584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +162,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ad" />
-    <option name="LAST_COMMIT_MESSAGE" value="ad" />
+    <MESSAGE value="ㅁ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ㅁ" />
   </component>
 </project>

@@ -1,27 +1,27 @@
 
-K
-java:S1854"5Remove this useless assignment to local variable "d".(ì¦§¸
-K
-java:S1854"5Remove this useless assignment to local variable "f".(Óß¯¤
-K
-java:S1854"5Remove this useless assignment to local variable "l".(êç©Á
-J
-java:S1854"5Remove this useless assignment to local variable "i".(ÔíÜ
-K
+W
+java:S1854"5Remove this useless assignment to local variable "d".(Ë½»×þÿÿÿÿ8µ±‰­Ç1
+R
+java:S1854"5Remove this useless assignment to local variable "f".(Óß¯¤8¶±‰­Ç1
+R
+java:S1854"5Remove this useless assignment to local variable "l".(Þ´ÉÍ8¶±‰­Ç1
+Q
+java:S1854"5Remove this useless assignment to local variable "i".(ÔíÜ8·±‰­Ç1
+R
 java:S1854
-"5Remove this useless assignment to local variable "s".(ø¨Èá
-K
-java:S1854	"5Remove this useless assignment to local variable "b".(„Í½ü
-<
-java:S1481	"&Remove this unused "b" local variable.(„Í½ü
-<
+"5Remove this useless assignment to local variable "s".(ø¨Èá8·±‰­Ç1
+R
+java:S1854	"5Remove this useless assignment to local variable "b".(„Í½ü8·±‰­Ç1
+C
+java:S1481	"&Remove this unused "b" local variable.(„Í½ü8¸±‰­Ç1
+C
 java:S1481
-"&Remove this unused "s" local variable.(ø¨Èá
-;
-java:S1481"&Remove this unused "i" local variable.(ÔíÜ
-<
-java:S1481"&Remove this unused "l" local variable.(êç©Á
-<
-java:S1481"&Remove this unused "f" local variable.(Óß¯¤
-<
-java:S1481"&Remove this unused "d" local variable.(ì¦§¸
+"&Remove this unused "s" local variable.(ø¨Èá8¸±‰­Ç1
+B
+java:S1481"&Remove this unused "i" local variable.(ÔíÜ8¸±‰­Ç1
+C
+java:S1481"&Remove this unused "l" local variable.(Þ´ÉÍ8¹±‰­Ç1
+C
+java:S1481"&Remove this unused "f" local variable.(Óß¯¤8¹±‰­Ç1
+H
+java:S1481"&Remove this unused "d" local variable.(Ë½»×þÿÿÿÿ8¹±‰­Ç1
