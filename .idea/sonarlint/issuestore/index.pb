@@ -303,3 +303,11 @@ K
 src/variable/ex/VarEx3.java,4\0\40ed29befc5018040859adc714406b714a97a359
 K
 src/variable/ex/VarEx2.java,7\0\70989599ca1bb34db532f5630b985beb0f16d303
+F
+src/variable/변수.md,c\5\c5ac701f0c9e6dd998c65fd1df336f464a331711
+L
+src/operator/Operator_정리,3\7\37df6a634fb25dde8b44c6e1b077167694b67786
+O
+src/operator/Operator_정리.md,a\2\a2b0c311827619bb283a548ef7d6bc26f4a94408
+P
+ src/operator/연산자_정리.md,d\a\da9badf6012c8423bc11e57a4517fe5540dd2d2e
