@@ -7,7 +7,7 @@ public class If2 {
 
         if (age >= 18) {
             System.out.println("성인입니다.");
-        } else {
+        } else { // 만족하는 조건이 없다면 실행 // == 그렇지 않으면
             System.out.println("미성년자입니다.");
         }
     }
