@@ -10,7 +10,7 @@ public class Switch3 {
             case 1:
                 coupon = 1000;
                 break;
-            case 2:
+            case 2: // break가 없을 때
             case 3:
                 coupon = 3000;
                 break;
