@@ -6,11 +6,11 @@ public class Break1 {
         int sum = 0;
         int i = 1;
 
-        while(true) {
+        while(true) { //무한루프
             sum = sum + i;
-            if (sum > 10) {
+            if (sum > 100000000) {
                 System.out.println("합이 10보다 크면 종료: i=" + i + " sum=" + sum);
-                break;
+                break; //무한루프 종료
             }
             i++;
         }

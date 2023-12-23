@@ -311,3 +311,9 @@ L
 src/cond/Condition_정리.md,3\f\3facfb31526931628c8b2f4eac1ec32692969ff7
 G
 src/loop/Loop_정리.md,4\3\435098287e03c0600bbf7d4ae6fc8abc1835ac77
+I
+src/scope/scope_정리.md,2\a\2aa3e7066bd831eca600490ef5dc3fdff7122e79
+M
+src/casting/casting_정리.md,d\7\d7d7fb76bb0c0e85c18f9007d0144541fcf5eeaa
+M
+src/scanner/scanner_정리.md,0\f\0f7da739aa6244985764cbe04c9b2414726efe1b

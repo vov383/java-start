@@ -9,7 +9,7 @@ public class Scope2 {
             System.out.println("for i = " + i);
         } //i 생존 종료
 
-        //System.out.println("main i = " + i);
+//        System.out.println("main i = " + i);
         System.out.println("main m = " + m);
 
     }

@@ -9,7 +9,7 @@ public class Scope1 {
             System.out.println("if m = " + m);
             System.out.println("if x = " + x);
         } //x 생존 종료
-        //System.out.println("main x = " + x);
+        //System.out.println("main x = " + x); // can not find symbol (컴파일 에러)
         System.out.println("main m = " + m);
     } //m 생존 종료
 }
