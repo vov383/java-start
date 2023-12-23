@@ -4,41 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="조건문 끝. 반복문 시작">
-      <change afterPath="$PROJECT_DIR$/src/casting/casting_정리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/scanner_정리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/scope_정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/casting/Casting2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/casting/Casting2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/casting/Casting3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/casting/Casting3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/Break1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/Break1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/Continue1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/Continue1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/For1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/For1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/For2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/For2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/Loop_정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/Loop_정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/Nested1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/Nested1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/While1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/While1_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/While1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/While1_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/loop/While2_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/loop/While2_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/scanner/Scanner1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/scanner/Scanner1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-start/scope/Scope3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/scope/Scope3_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/casting/Casting4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/casting/Casting4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Break1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Continue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/For1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/For2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Loop_정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Loop_정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/Nested1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/While1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop/While2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scanner/Scanner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scope/Scope1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scope/Scope2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scope/Scope3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
+    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="섹션 5, 6, 7 끝.">
+      <change beforePath="$PROJECT_DIR$/src/scanner/scanner_정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/scanner_정리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +163,7 @@
       <workItem from="1702779465035" duration="8425000" />
       <workItem from="1702797070294" duration="3179000" />
       <workItem from="1703130475797" duration="17000" />
-      <workItem from="1703138828061" duration="18444000" />
+      <workItem from="1703138828061" duration="18662000" />
     </task>
     <task id="LOCAL-00001" summary="ad">
       <option name="closed" value="true" />
@@ -262,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703144338320</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="섹션 5, 6, 7 끝.">
+      <option name="closed" value="true" />
+      <created>1703338953968</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703338953968</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +275,8 @@
     <MESSAGE value="연산자 정리" />
     <MESSAGE value="조건문" />
     <MESSAGE value="조건문 끝. 반복문 시작" />
-    <option name="LAST_COMMIT_MESSAGE" value="조건문 끝. 반복문 시작" />
+    <MESSAGE value="섹션 5, 6, 7 끝." />
+    <option name="LAST_COMMIT_MESSAGE" value="섹션 5, 6, 7 끝." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
