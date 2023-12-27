@@ -23,7 +23,7 @@
 ### 주의
 - 타입 안맞으면?
   - `input type이 안맞아 input type mismatch란 exception` 예외를 발생.
-
+  
 ### print() vs println()
 - `print()`는 
   - 출력 후  다음 라인으로 안넘어감
@@ -56,7 +56,7 @@ public class ScannerEX5 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+      
         System.out.print("num1 입력 : ");
         int num1 = scanner.nextInt();
         System.out.print("num2 입력 : ");

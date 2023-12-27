@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="섹션 7 정리.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="깃허브 push 테스트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scanner/scanner_정리.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanner/scanner_정리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
@@ -230,6 +231,8 @@
       <workItem from="1703474640922" duration="596000" />
       <workItem from="1703477000495" duration="221000" />
       <workItem from="1703480161504" duration="602000" />
+      <workItem from="1703520889140" duration="2096000" />
+      <workItem from="1703583449678" duration="1290000" />
     </task>
     <task id="LOCAL-00001" summary="ad">
       <option name="closed" value="true" />
@@ -311,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703339425531</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="깃허브 push 테스트">
+      <option name="closed" value="true" />
+      <created>1703520924965</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703520924965</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +362,8 @@
     <MESSAGE value="조건문 끝. 반복문 시작" />
     <MESSAGE value="섹션 5, 6, 7 끝." />
     <MESSAGE value="섹션 7 정리." />
-    <option name="LAST_COMMIT_MESSAGE" value="섹션 7 정리." />
+    <MESSAGE value="깃허브 push 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="깃허브 push 테스트" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
