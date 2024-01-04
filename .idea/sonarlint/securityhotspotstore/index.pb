@@ -317,3 +317,11 @@ M
 src/casting/casting_정리.md,d\7\d7d7fb76bb0c0e85c18f9007d0144541fcf5eeaa
 M
 src/scanner/scanner_정리.md,0\f\0f7da739aa6244985764cbe04c9b2414726efe1b
+G
+src/array/array_note.md,6\7\67e15d5c9a9e14da5c9a57b8e338b01026d02477
+L
+src/array/ex/ArrayEx7My.java,c\b\cb3b7f132053c9b8c4fdc2d398b6efc42ef5aa8e
+R
+"src/array/ex/ProductAdminExMy.java,8\f\8fd211539ba8ecd1be8672ee233b6fd0440d3e79
+I
+src/method/method_note.md,a\a\aa41c9fe4e8358f92e88f4cb689c1c6a06f89074

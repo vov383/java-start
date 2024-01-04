@@ -4,11 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="1227 push test" />
+    <list default="true" id="d4663c83-bbdb-4e60-b6f6-baddf68418dd" name="Changes" comment="1227 push test">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/array_note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7My.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminExMy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/method_note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ArrayDi3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ArrayDi3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx1Ref.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx1Ref.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/array/ex/ArrayEx8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/method/MethodCasting1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/method/MethodReturn2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-start/method/MethodReturn2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-start/method/ex/MethodEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Array1Ref2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ArrayDi3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/EnhancedFor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/EnhancedFor1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx1Ref.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1Ref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/MethodCasting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/MethodReturn2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,62 +81,37 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dbtjr/Documents/study/java-start&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/dbtjr/Documents/study/java-start",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.Scanner1">
+}]]></component>
+  <component name="RunManager" selected="Application.MethodCasting1">
     <configuration name="Casting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="casting.Casting1" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="casting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Casting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting1" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="casting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Casting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
@@ -134,19 +149,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting3" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="casting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Casting4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="casting.Casting4" />
       <module name="java-start" />
@@ -160,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting4" />
+    <configuration name="Method1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Method1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="casting.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +175,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scanner1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scanner.Scanner1" />
+    <configuration name="Method1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.Method1Ref" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="scanner.*" />
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodCasting1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReturn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodReturn2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodValue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Scanner1" />
-        <item itemvalue="Application.Casting4" />
-        <item itemvalue="Application.Casting3" />
-        <item itemvalue="Application.Casting2" />
-        <item itemvalue="Application.Casting1" />
+        <item itemvalue="Application.MethodCasting1" />
+        <item itemvalue="Application.MethodValue1" />
+        <item itemvalue="Application.MethodReturn2" />
+        <item itemvalue="Application.Method1Ref" />
+        <item itemvalue="Application.Method1" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +270,7 @@
       <workItem from="1703477000495" duration="221000" />
       <workItem from="1703480161504" duration="602000" />
       <workItem from="1703520889140" duration="2096000" />
-      <workItem from="1703583449678" duration="1623000" />
+      <workItem from="1703583449678" duration="32896000" />
     </task>
     <task id="LOCAL-00001" summary="ad">
       <option name="closed" value="true" />
@@ -327,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703661613186</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1227 push test">
+      <option name="closed" value="true" />
+      <created>1703662072877</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703662072877</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
